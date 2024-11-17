@@ -4,8 +4,8 @@ import 'dart:io';
 
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
-import 'package:simple_app/core/utils/exceptions.dart';
-import 'package:simple_app/shared/utils/string_setups/strings.dart';
+import 'package:simple_app/core/network/utils/exceptions.dart';
+import 'package:simple_app/shared/utilities/string_setups/strings.dart';
 
 class ApiClient {
   ApiClient() {

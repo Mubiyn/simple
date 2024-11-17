@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simple_app/shared/utils/theme_configs/size_utils.dart';
-import 'package:simple_app/shared/utils/theme_configs/theme.dart';
+import 'package:simple_app/shared/utilities/theme_configs/size_utils.dart';
+import 'package:simple_app/shared/utilities/theme_configs/theme.dart';
 
 class AppLoader extends StatelessWidget {
   const AppLoader({

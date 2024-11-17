@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:simple_app/features/home/logic/simple_viewmodel.dart';
 import 'package:simple_app/features/home/ui/widgets/event_view.dart';
-import 'package:simple_app/shared/utils/theme_configs/size_utils.dart';
-import 'package:simple_app/shared/utils/theme_configs/text_theme.dart';
-import 'package:simple_app/shared/utils/theme_configs/theme.dart';
+import 'package:simple_app/shared/utilities/theme_configs/size_utils.dart';
+import 'package:simple_app/shared/utilities/theme_configs/text_theme.dart';
+import 'package:simple_app/shared/utilities/theme_configs/theme.dart';
 import 'package:simple_app/shared/widgets/scaffold.dart';
 import 'package:simple_app/shared/widgets/textfields.dart';
 

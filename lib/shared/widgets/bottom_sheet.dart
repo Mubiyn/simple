@@ -1,10 +1,10 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:simple_app/service_locators/simple_locator.dart';
-import 'package:simple_app/shared/utils/theme_configs/size_utils.dart';
-import 'package:simple_app/shared/utils/theme_configs/text_theme.dart';
-import 'package:simple_app/shared/utils/theme_configs/theme.dart';
+import 'package:simple_app/core/service_locators/simple_locator.dart';
+import 'package:simple_app/shared/utilities/theme_configs/size_utils.dart';
+import 'package:simple_app/shared/utilities/theme_configs/text_theme.dart';
+import 'package:simple_app/shared/utilities/theme_configs/theme.dart';
 import 'package:simple_app/shared/widgets/buttons.dart';
 import 'package:simple_app/shared/widgets/scaffold.dart';
 import 'package:simple_app/shared/widgets/textfields.dart';

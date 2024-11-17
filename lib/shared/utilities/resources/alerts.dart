@@ -1,7 +1,7 @@
 import 'package:awesome_snackbar_content/awesome_snackbar_content.dart';
 import 'package:flutter/material.dart';
 import 'package:getwidget/getwidget.dart';
-import 'package:simple_app/shared/utils/theme_configs/text_theme.dart';
+import 'package:simple_app/shared/utilities/theme_configs/text_theme.dart';
 
 showAppSnackBar(BuildContext context,
     {String? title = 'Oh Snap!',

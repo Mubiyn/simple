@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:simple_app/shared/utils/theme_configs/size_utils.dart';
-import 'package:simple_app/shared/utils/theme_configs/text_theme.dart';
-import 'package:simple_app/shared/utils/theme_configs/theme.dart';
+import 'package:simple_app/shared/utilities/theme_configs/size_utils.dart';
+import 'package:simple_app/shared/utilities/theme_configs/text_theme.dart';
+import 'package:simple_app/shared/utilities/theme_configs/theme.dart';
 
 class FormLabelWidget extends StatelessWidget {
   const FormLabelWidget({

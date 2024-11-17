@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:go_router/go_router.dart';
-import 'package:simple_app/features/app/splash.dart';
+import 'package:simple_app/features/splash/splash.dart';
 import 'package:simple_app/features/home/ui/home.dart';
 import 'package:simple_app/features/home/ui/login.dart';
 import 'package:simple_app/services/route/navigation_service.dart';
 import 'package:simple_app/services/settings/settings.dart';
-import 'package:simple_app/shared/utils/string_setups/app_localization.dart';
-import 'package:simple_app/shared/utils/theme_configs/size_utils.dart';
-import 'package:simple_app/shared/utils/theme_configs/theme.dart';
+import 'package:simple_app/shared/utilities/string_setups/app_localization.dart';
+import 'package:simple_app/shared/utilities/theme_configs/size_utils.dart';
+import 'package:simple_app/shared/utilities/theme_configs/theme.dart';
 
 class SimpleEventApp extends StatelessWidget {
   const SimpleEventApp({super.key});

@@ -1,2 +1,2 @@
-export 'api_client.dart';
-export 'api_endpoints.dart';
+export 'rest/api_client.dart';
+export 'rest/api_endpoints.dart';

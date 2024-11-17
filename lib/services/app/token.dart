@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:simple_app/service_locators/app_locator.dart';
+import 'package:simple_app/core/service_locators/app_locator.dart';
 import 'package:simple_app/services/app/token_model.dart';
 
 abstract class SimpleUserState {

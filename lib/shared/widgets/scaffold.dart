@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simple_app/shared/utils/theme_configs/theme.dart';
+import 'package:simple_app/shared/utilities/theme_configs/theme.dart';
 import 'package:simple_app/shared/widgets/loaders.dart';
 
 class SimpleScaffold extends StatefulWidget {

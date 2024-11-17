@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:simple_app/service_locators/app_locator.dart';
+import 'package:simple_app/core/service_locators/app_locator.dart';
 import 'package:simple_app/services/app/token_model.dart';
-import 'package:simple_app/shared/utils/resources/disposable_change_notifier.dart';
+import 'package:simple_app/shared/utilities/resources/disposable_change_notifier.dart';
 
 enum StateStatus { notLoggedIn, loggedIn }
 

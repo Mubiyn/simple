@@ -1,7 +1,7 @@
 import 'package:get_it/get_it.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:simple_app/core/network/network.dart';
-import 'package:simple_app/service_locators/simple_locator.dart';
+import 'package:simple_app/core/service_locators/simple_locator.dart';
 import 'package:simple_app/services/app/token.dart';
 import 'package:simple_app/services/route/observer.dart';
 import 'package:simple_app/services/settings/settings.dart';

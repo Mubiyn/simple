@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simple_app/service_locators/app_locator.dart';
+import 'package:simple_app/core/service_locators/app_locator.dart';
 
 SimpleThemeService get simplethemeService =>
     serviceLocator<SimpleThemeService>();

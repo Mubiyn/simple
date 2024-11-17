@@ -1,8 +1,8 @@
 import 'package:calendar_view/calendar_view.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:simple_app/shared/utils/string_setups/date_extensions.dart';
-import 'package:simple_app/shared/utils/theme_configs/size_utils.dart';
+import 'package:simple_app/shared/utilities/string_setups/date_extensions.dart';
+import 'package:simple_app/shared/utilities/theme_configs/size_utils.dart';
 import 'package:simple_app/shared/widgets/scaffold.dart';
 
 class DetailsPage extends StatelessWidget {

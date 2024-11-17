@@ -2,7 +2,7 @@ import 'dart:developer';
 import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:simple_app/shared/utils/string_setups/strings.dart';
+import 'package:simple_app/shared/utilities/string_setups/strings.dart';
 
 class ApiException implements Exception {
   ApiException(this.message);

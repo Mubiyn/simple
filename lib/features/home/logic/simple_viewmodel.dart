@@ -1,9 +1,9 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:simple_app/service_locators/simple_locator.dart';
+import 'package:simple_app/core/service_locators/simple_locator.dart';
 import 'package:simple_app/services/app/token_model.dart';
-import 'package:simple_app/shared/utils/resources/disposable_change_notifier.dart';
+import 'package:simple_app/shared/utilities/resources/disposable_change_notifier.dart';
 
 class SimpleViewModel extends DisposableChangeNotifier {
   SimpleViewModel();

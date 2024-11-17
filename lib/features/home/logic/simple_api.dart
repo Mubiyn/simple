@@ -1,9 +1,9 @@
 import 'dart:developer';
 
 import 'package:dartz/dartz.dart';
-import 'package:simple_app/core/network/api_endpoints.dart';
-import 'package:simple_app/core/utils/utils.dart';
-import 'package:simple_app/service_locators/app_locator.dart';
+import 'package:simple_app/core/network/rest/api_endpoints.dart';
+import 'package:simple_app/core/network/utils/utils.dart';
+import 'package:simple_app/core/service_locators/app_locator.dart';
 
 abstract class SimpleApi {
   Future<Either<Failure, String>> getGoogleResponse();
